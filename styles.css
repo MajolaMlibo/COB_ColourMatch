@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  font-family: Arial;
+}
+
+#colors {
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  cursor: pointer;
+}
